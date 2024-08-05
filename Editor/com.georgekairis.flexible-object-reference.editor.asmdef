@@ -1,0 +1,18 @@
+{
+    "name": "com.georgekairis.flexible-object-reference.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c8ecd823f3102274c80ba98f73060c73"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

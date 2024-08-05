@@ -1,0 +1,21 @@
+{
+    "name": "com.georgekairis.flexible-object-reference",
+    "version": "0.0.0",
+    "displayName": "Flexible Object Reference",
+    "description": "Reference management system for Unity.",
+    "unity": "2023.1",
+    "documentationUrl": "https://github.com/georgekairis/flexible-object-reference/blob/main/README.md#manual",
+    "changelogUrl": "https://github.com/georgekairis/flexible-object-reference/blob/main/CHANGELOG.md",
+    "licensesUrl": "https://github.com/georgekairis/flexible-object-reference/blob/main/LICENSE.md",
+    "keywords": [
+      "Flexible",
+      "Object",
+      "Reference"
+    ],
+    "author": {
+      "name": "George Kairis",
+      "email": "kairisg@gmail.com",
+      "url": "https://georgekairis.com"
+    },
+    "hideInEditor": false
+  }

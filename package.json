@@ -1,6 +1,6 @@
 {
     "name": "com.georgekairis.flexible-object-reference",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "displayName": "Flexible Object Reference",
     "description": "Reference management system for Unity.",
     "unity": "2023.1",

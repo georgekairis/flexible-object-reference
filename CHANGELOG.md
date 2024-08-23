@@ -12,3 +12,23 @@
 ### Changed
 
 - Updated readme file.
+
+
+## [0.2.0-exp.0] - 2024-08-23
+
+### General
+
+- Created experimental version.
+
+### Changed
+
+- Updated readme file.
+
+
+## [0.2.0-exp.1]
+
+### General
+
+### Added
+
+### Changed

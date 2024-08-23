@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Version](https://img.shields.io/github/v/release/georgekairis/flexible-object-reference?include_prereleases&color=F20519)](https://github.com/georgekairis/flexible-object-reference/releases)
+  [![Version](https://img.shields.io/badge/release-0.2.0--exp.0-F20519)](https://github.com/georgekairis/flexible-object-reference/releases/tag/0.2.0-exp.0)
   [![Unity](https://img.shields.io/badge/unity-2023.1%2B-FFFFFF)](https://unity.com/releases/editor/archive)
 
 </div>
